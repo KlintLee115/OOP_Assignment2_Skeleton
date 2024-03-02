@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|d:\\oop2\\assignment2_skeleton\\assignment2_skeleton\\assignment2\\components\\pages\\data\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\data\\reservationmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\assignment2\\components\\pages\\data\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\data\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|d:\\oop2\\assignment2_skeleton\\assignment2_skeleton\\assignment2\\components\\pages\\data\\flightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\data\\flightmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|d:\\oop2\\assignment2_skeleton\\assignment2_skeleton\\assignment2\\resources\\files\\reservation.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\resources\\files\\reservation.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\assignment2\\components\\pages\\reservations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\reservations.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\assignment2\\components\\pages\\flights.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\flights.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\assignment2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{65770234-CE6D-46C5-8A1C-11008B00DDEA}|Assignment2\\Assignment2.csproj|solutionrelative:assignment2\\components\\pages\\home.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "reservation.csv",
+              "DocumentMoniker": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Resources\\Files\\reservation.csv",
+              "RelativeDocumentMoniker": "Assignment2\\Resources\\Files\\reservation.csv",
+              "ToolTip": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Resources\\Files\\reservation.csv",
+              "RelativeToolTip": "Assignment2\\Resources\\Files\\reservation.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-03-02T21:50:10.298Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 197,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Home.razor",
+              "DocumentMoniker": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Home.razor",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Home.razor",
+              "ToolTip": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Home.razor",
+              "RelativeToolTip": "Assignment2\\Components\\Pages\\Home.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T22:19:48.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReservationManager.cs",
+              "DocumentMoniker": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
+              "ToolTip": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
+              "RelativeToolTip": "Assignment2\\Components\\Pages\\Data\\ReservationManager.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAcwIsAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T22:02:08.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FlightManager.cs",
+              "DocumentMoniker": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
+              "ToolTip": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
+              "RelativeToolTip": "Assignment2\\Components\\Pages\\Data\\FlightManager.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADYAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-02T21:39:12.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Reservations.razor",
+              "DocumentMoniker": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Reservations.razor",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Reservations.razor",
+              "ToolTip": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Reservations.razor",
+              "RelativeToolTip": "Assignment2\\Components\\Pages\\Reservations.razor",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAgwNgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T18:07:54.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Flights.razor",
+              "DocumentMoniker": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Flights.razor",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Flights.razor",
+              "ToolTip": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Flights.razor",
+              "RelativeToolTip": "Assignment2\\Components\\Pages\\Flights.razor",
+              "ViewState": "AQIAAEEBAAAAAAAAAAAAAD4BAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-24T18:07:53.327Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\Reservation.cs",
+              "RelativeDocumentMoniker": "Assignment2\\Components\\Pages\\Data\\Reservation.cs",
+              "ToolTip": "D:\\oop2\\Assignment2_Skeleton\\Assignment2_Skeleton\\Assignment2\\Components\\Pages\\Data\\Reservation.cs",
+              "RelativeToolTip": "Assignment2\\Components\\Pages\\Data\\Reservation.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-27T05:38:22.862Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
